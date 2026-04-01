@@ -1,0 +1,8 @@
+test:
+eigenes repo
+glpat-S4yaaHghxVj4NVtCyrMFsW86MQp1OmRlCA.01.0y1eblwys
+
+
+token1:
+ss26 public repo
+glpat-Czn7iPknzvzpsMyapyYj7W86MQp1OmRlCA.01.0y0fagh7o
